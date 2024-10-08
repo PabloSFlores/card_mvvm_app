@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Pablo",
+    "lastname": "Flores",
+    "email": "floressantanapablosamuel@gmail.com",
+    "photo": "https://thispersondoesnotexist.com",
+    "favoriteArtists": ["Radiohead", "Enjambre", "Ed Maverick"]
+  },
+  {
+    "id": 2,
+    "name": "Alejandro",
+    "lastname": "Morellano",
+    "email": "more@gmail.com",
+    "photo": "https://thispersondoesnotexist.com",
+    "favoriteArtists": ["Enjambre", "Palace", "Cuarteto de Nos"]
+  },
+  {
+    "id": 3,
+    "name": "Mariana",
+    "lastname": "González",
+    "email": "mariana.gonzalez@example.com",
+    "photo": "https://thispersondoesnotexist.com",
+    "favoriteArtists": ["Taylor Swift", "Coldplay", "Arctic Monkeys"]
+  },
+  {
+    "id": 4,
+    "name": "Carlos",
+    "lastname": "Ramírez",
+    "email": "carlos.ramirez@example.com",
+    "photo": "https://thispersondoesnotexist.com",
+    "favoriteArtists": ["The Beatles", "Pink Floyd", "Led Zeppelin"]
+  },
+  {
+    "id": 5,
+    "name": "Sofía",
+    "lastname": "Martínez",
+    "email": "sofia.martinez@example.com",
+    "photo": "https://thispersondoesnotexist.com",
+    "favoriteArtists": ["Adele", "Lorde", "Billie Eilish"]
+  }
+]
